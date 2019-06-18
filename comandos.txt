@@ -1,0 +1,28 @@
+git init                            //inicia el repocitorio
+git help                            //muestra comandos
+git status                          //da el status de la rama
+git add . o archivo.XXX             //agrega los cambios
+git config                          //configura el repocitorio
+git log                             //status de los comit
+git commit -m "version 0.0.X"       //Crea un comit con version
+
+Regresar un cambio y ver la diferencia
+● git checkout -- index.html
+● git diff index.html
+
+
+
+
+Configuración
+● git config --global user.email “tucorreo@tuservicio.com”
+● git config --global user.name “tu_usuario”
+● git commit
+
+Ignorar archivo a subirlo
+● Añadir una carpeta y un archivo.
+● Status se ve en rojo
+● Agregar el archivo .gitignore
+● Nombre de la carpeta
+● git status
+● Rojo .gitignore
+● Git commit -m “he agregado el .gitignore”
