@@ -9,7 +9,7 @@ git commit -m "version 0.0.X"       //Crea un comit con version
 Regresar un cambio y ver la diferencia
 ● git checkout -- index.html
 ● git diff index.html
-
+pruebas cambios
 
 
 
