@@ -5,13 +5,9 @@ git add . o archivo.XXX             //agrega los cambios
 git config                          //configura el repocitorio
 git log                             //status de los comit
 
-
 Regresar un cambio y ver la diferencia
 ● git checkout -- index.html
 ● git diff index.html
-
-
-
 
 Configuración
 ● git config --global user.email “tucorreo@tuservicio.com”
