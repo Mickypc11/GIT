@@ -1,4 +1,4 @@
-git init                            //inicia el repocitorio
+﻿git init                            //inicia el repocitorio
 git help                            //muestra comandos
 git status                          //da el status de la rama
 git add . o archivo.XXX             //agrega los cambios
@@ -28,8 +28,9 @@ Ignorar archivo a subirlo
 ● Git commit -m “he agregado el .gitignore”
 
 
-. se agraga este codifo para hacer pruebas
+
 soy el usurio 1
+
 
 Crear ramas (branch)
 ● Git branch
@@ -54,3 +55,6 @@ Crear el README y clonar
 ● ```
 ● Código
 ● ```
+
+///////pruebas
+
