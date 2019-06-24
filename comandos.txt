@@ -4,6 +4,8 @@ git status                          //da el status de la rama
 git add . o archivo.XXX             //agrega los cambios
 git config                          //configura el repocitorio
 git log                             //status de los comit
+git checkout  cambiar de rama
+
 
 Regresar un cambio y ver la diferencia
 ● git checkout -- index.html
