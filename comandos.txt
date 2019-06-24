@@ -1,15 +1,20 @@
-
+git init                            //inicia el repocitorio
 git help                            //muestra comandos
 git status                          //da el status de la rama
 git add . o archivo.XXX             //agrega los cambios
 git config                          //configura el repocitorio
 git log                             //status de los comit
-git checkout  cambiar de rama
+git commit -m "version 0.0.X"       //Crea un comit con version
+git checkout -b  "nombre rama"      //se crea una rama y le pone nombre
+git gc 								//limpiar git
+git commit --amend                  //se puede modificar el ultimo commit
+
 
 
 Regresar un cambio y ver la diferencia
 ● git checkout -- index.html
 ● git diff index.html
+
 
 Configuración
 ● git config --global user.email “tucorreo@tuservicio.com”
@@ -25,6 +30,30 @@ Ignorar archivo a subirlo
 ● Rojo .gitignore
 ● Git commit -m “he agregado el .gitignore”
 
+Crear ramas (branch)
+● Git branch             //// ver las ramas
+● Una sola rama
+● Git branch login: creas la rama login
+● Git branch
+● Git checkout login: me cambio a la rama login
+● Git status: los cambios en rojo
+● Git add . añade todos
+● Git commit -m “version alternativa con
+● Estamos en login
+● Git checkout master
+● Git log
+
+git branch -D o -d "Rama" Se borra la rama sin preguntar
 
 
-Se realizan nuevos cambios
+Crear el README y clonar
+● Por medio de caracteres:
+● # Título del Proyecto
+● _Acá va un párrafo que describa lo que es el proyecto_
+● ## Subtitulo
+● ### Subsubtitulo
+● ```
+● Código
+● ```
+
+///////pruebas
