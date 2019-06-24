@@ -24,3 +24,7 @@ Ignorar archivo a subirlo
 ● git status
 ● Rojo .gitignore
 ● Git commit -m “he agregado el .gitignore”
+
+
+
+Se realizan nuevos cambios
